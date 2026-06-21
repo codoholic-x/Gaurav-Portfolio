@@ -105,10 +105,10 @@ const siteContent = {
     {
       role: "Web Development Intern",
       organization: "Sysslan IT Solutions",
-      duration: "2026 (Ongoing)",
+      duration: "2026 (Completed)",
       location: "Remote",
       description: [
-        "Collaborating on ongoing web development projects as part of the team.",
+        "Collaborating on Completed web development projects as part of the team.",
         "Conducting research and preparing technical documentation.",
         "Contributing to strategy development and feature implementation.",
         "Certificate of completion expected shortly as the internship wraps up.",

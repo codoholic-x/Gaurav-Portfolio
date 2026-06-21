@@ -41,7 +41,7 @@ export default function Experience({ content }) {
                   </div>
                   {exp.current && (
                     <span className="font-mono text-[10px] px-2 py-1 rounded-full bg-neon-lime/10 text-neon-lime border border-neon-lime/30">
-                      ONGOING
+                      Completed
                     </span>
                   )}
                 </div>

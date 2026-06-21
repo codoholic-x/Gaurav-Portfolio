@@ -154,7 +154,7 @@ export default function ManageContent() {
                       checked={e.current}
                       onChange={(ev) => updateArrayItem("experience", i, "current", ev.target.checked)}
                     />
-                    currently ongoing
+                    currently Completed
                   </label>
                   <button onClick={() => removeArrayItem("experience", i)} className="p-2 rounded-lg glass hover:text-red-400">
                     <Trash2 size={14} />
